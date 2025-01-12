@@ -1,0 +1,49 @@
+2025-01-12 11:33:44,863 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-12 11:33:44,865 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-12 11:33:44,865 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-12 11:33:44,867 INFO Added job "commit_to_git" to job store "default"
+2025-01-12 11:33:44,867 INFO Added job "check_and_notify_birthdays" to job store "default"
+2025-01-12 11:33:44,867 INFO Added job "delete_old_reservations" to job store "default"
+2025-01-12 11:33:44,867 INFO Scheduler started
+2025-01-12 11:33:44,868 INFO Приложение Flask успешно запущено на порту 10000
+2025-01-12 11:33:45,058 WARNING  * Debugger is active!
+2025-01-12 11:33:45,059 INFO  * Debugger PIN: 121-811-312
+2025-01-12 11:33:45,069 INFO 127.0.0.1 - - [12/Jan/2025 11:33:45] "HEAD / HTTP/1.1" 200 -
+2025-01-12 11:33:45,158 INFO 127.0.0.1 - - [12/Jan/2025 11:33:45] "GET / HTTP/1.1" 200 -
+2025-01-12 11:33:53,328 INFO 127.0.0.1 - - [12/Jan/2025 11:33:53] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:34:02,572 INFO 127.0.0.1 - - [12/Jan/2025 11:34:02] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:34:10,340 INFO 127.0.0.1 - - [12/Jan/2025 11:34:10] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:34:23,089 ERROR Некорректный формат запроса от пользователя 77774124348@c.us
+2025-01-12 11:34:23,089 INFO 127.0.0.1 - - [12/Jan/2025 11:34:23] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:34:29,239 INFO 127.0.0.1 - - [12/Jan/2025 11:34:29] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:34:44,003 INFO 127.0.0.1 - - [12/Jan/2025 11:34:44] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:34:57,283 INFO 127.0.0.1 - - [12/Jan/2025 11:34:57] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:35:03,995 INFO 127.0.0.1 - - [12/Jan/2025 11:35:03] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:35:08,826 INFO 127.0.0.1 - - [12/Jan/2025 11:35:08] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:35:30,954 INFO 127.0.0.1 - - [12/Jan/2025 11:35:30] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:35:43,343 INFO 127.0.0.1 - - [12/Jan/2025 11:35:43] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:35:58,558 INFO 127.0.0.1 - - [12/Jan/2025 11:35:58] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:36:15,027 INFO 127.0.0.1 - - [12/Jan/2025 11:36:15] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:36:21,706 INFO 127.0.0.1 - - [12/Jan/2025 11:36:21] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:36:28,979 INFO 127.0.0.1 - - [12/Jan/2025 11:36:28] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:36:45,578 INFO 127.0.0.1 - - [12/Jan/2025 11:36:45] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:37:07,334 INFO 127.0.0.1 - - [12/Jan/2025 11:37:07] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:37:15,992 INFO 127.0.0.1 - - [12/Jan/2025 11:37:15] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:37:24,395 INFO 127.0.0.1 - - [12/Jan/2025 11:37:24] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:38:49,361 INFO 127.0.0.1 - - [12/Jan/2025 11:38:49] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 11:39:15,728 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "/opt/render/project/src/.venv/lib/python3.11/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/render/project/src/.venv/lib/python3.11/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/render/project/src/bot.py", line 590, in webhook
+    admin_check(user, user_data, text)
+  File "/opt/render/project/src/bot.py", line 384, in admin_check
+    query_db(insert_query, phone, fetch=False)
+  File "/opt/render/project/src/bot.py", line 93, in query_db
+    cursor.execute(query, params or ())
+sqlite3.OperationalError: table Admins has no column named phone
+2025-01-12 11:39:17,021 INFO Файл backups/db_nehabar_2025-01-12_16-39-15.db создан.
