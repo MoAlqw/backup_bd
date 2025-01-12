@@ -1,0 +1,34 @@
+2025-01-12 14:12:04,821 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-12 14:12:04,824 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-12 14:12:04,824 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-12 14:12:04,826 INFO Added job "commit_to_git" to job store "default"
+2025-01-12 14:12:04,827 INFO Added job "check_and_notify_birthdays" to job store "default"
+2025-01-12 14:12:04,827 INFO Added job "delete_old_reservations" to job store "default"
+2025-01-12 14:12:04,827 INFO Scheduler started
+2025-01-12 14:12:04,828 INFO Приложение Flask успешно запущено на порту 10000
+2025-01-12 14:12:05,018 WARNING  * Debugger is active!
+2025-01-12 14:12:05,044 INFO  * Debugger PIN: 122-139-368
+2025-01-12 14:12:05,087 INFO 127.0.0.1 - - [12/Jan/2025 14:12:05] "HEAD / HTTP/1.1" 200 -
+2025-01-12 14:12:07,614 INFO 127.0.0.1 - - [12/Jan/2025 14:12:07] "GET / HTTP/1.1" 200 -
+2025-01-12 14:12:14,910 INFO 127.0.0.1 - - [12/Jan/2025 14:12:14] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 14:12:20,251 INFO 127.0.0.1 - - [12/Jan/2025 14:12:20] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 14:12:25,730 INFO 127.0.0.1 - - [12/Jan/2025 14:12:25] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 14:12:32,343 INFO 127.0.0.1 - - [12/Jan/2025 14:12:32] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 14:12:45,193 INFO Файл backups/db_nehabar_2025-01-12_19-12-43.db создан.
+2025-01-12 14:12:46,675 INFO Файл logs/py_log_2025-01-12_19-12-43.log создан.
+2025-01-12 14:12:46,676 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "/opt/render/project/src/.venv/lib/python3.11/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/render/project/src/.venv/lib/python3.11/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/render/project/src/bot.py", line 623, in webhook
+    handle_states(user, state_user, text, user_data)
+  File "/opt/render/project/src/bot.py", line 474, in handle_states
+    handle_select_action(user, text)
+  File "/opt/render/project/src/bot.py", line 167, in handle_select_action
+    raise Exception("rr")
+Exception: rr
+2025-01-12 14:12:48,624 INFO Файл backups/db_nehabar_2025-01-12_19-12-47.db создан.
