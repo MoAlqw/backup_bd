@@ -1,0 +1,133 @@
+2025-01-12 12:04:57,952 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-12 12:04:57,955 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-12 12:04:57,955 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-12 12:04:57,958 INFO Added job "commit_to_git" to job store "default"
+2025-01-12 12:04:57,958 INFO Added job "check_and_notify_birthdays" to job store "default"
+2025-01-12 12:04:57,958 INFO Added job "delete_old_reservations" to job store "default"
+2025-01-12 12:04:57,958 INFO Scheduler started
+2025-01-12 12:04:57,960 INFO Приложение Flask успешно запущено на порту 10000
+2025-01-12 12:04:58,148 WARNING  * Debugger is active!
+2025-01-12 12:04:58,150 INFO  * Debugger PIN: 369-186-512
+2025-01-12 12:04:58,248 INFO 127.0.0.1 - - [12/Jan/2025 12:04:58] "HEAD / HTTP/1.1" 200 -
+2025-01-12 12:05:01,095 INFO 127.0.0.1 - - [12/Jan/2025 12:05:01] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:05:01,317 INFO 127.0.0.1 - - [12/Jan/2025 12:05:01] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:05:01,562 INFO 127.0.0.1 - - [12/Jan/2025 12:05:01] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:05:01,817 INFO 127.0.0.1 - - [12/Jan/2025 12:05:01] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:05:03,465 INFO 127.0.0.1 - - [12/Jan/2025 12:05:03] "GET / HTTP/1.1" 200 -
+2025-01-12 12:05:12,274 INFO 127.0.0.1 - - [12/Jan/2025 12:05:12] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:05:16,067 INFO 127.0.0.1 - - [12/Jan/2025 12:05:16] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:05:31,974 INFO 127.0.0.1 - - [12/Jan/2025 12:05:31] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:05:37,411 INFO 127.0.0.1 - - [12/Jan/2025 12:05:37] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:05:43,331 INFO 127.0.0.1 - - [12/Jan/2025 12:05:43] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:05:51,531 INFO 127.0.0.1 - - [12/Jan/2025 12:05:51] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:05:55,307 INFO 127.0.0.1 - - [12/Jan/2025 12:05:55] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:06:00,140 INFO 127.0.0.1 - - [12/Jan/2025 12:06:00] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:06:04,132 INFO 127.0.0.1 - - [12/Jan/2025 12:06:04] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:06:16,544 INFO 127.0.0.1 - - [12/Jan/2025 12:06:16] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:06:20,312 INFO 127.0.0.1 - - [12/Jan/2025 12:06:20] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:06:25,078 INFO 127.0.0.1 - - [12/Jan/2025 12:06:25] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:06:32,438 INFO 127.0.0.1 - - [12/Jan/2025 12:06:32] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:06:39,054 INFO 127.0.0.1 - - [12/Jan/2025 12:06:39] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:06:43,047 INFO 127.0.0.1 - - [12/Jan/2025 12:06:43] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:06:46,294 INFO 127.0.0.1 - - [12/Jan/2025 12:06:46] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:06:54,744 INFO 127.0.0.1 - - [12/Jan/2025 12:06:54] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:06:59,176 INFO 127.0.0.1 - - [12/Jan/2025 12:06:59] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:07:07,399 INFO 127.0.0.1 - - [12/Jan/2025 12:07:07] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:07:12,607 INFO 127.0.0.1 - - [12/Jan/2025 12:07:12] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:07:18,435 INFO 127.0.0.1 - - [12/Jan/2025 12:07:18] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:07:28,570 INFO 127.0.0.1 - - [12/Jan/2025 12:07:28] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:07:36,765 INFO 127.0.0.1 - - [12/Jan/2025 12:07:36] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:07:48,022 INFO 127.0.0.1 - - [12/Jan/2025 12:07:48] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:08:06,248 INFO 127.0.0.1 - - [12/Jan/2025 12:08:06] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:08:15,278 INFO 127.0.0.1 - - [12/Jan/2025 12:08:15] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:08:22,074 INFO 127.0.0.1 - - [12/Jan/2025 12:08:22] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:08:29,127 INFO 127.0.0.1 - - [12/Jan/2025 12:08:29] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:09:19,885 INFO 127.0.0.1 - - [12/Jan/2025 12:09:19] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:09:24,598 INFO 127.0.0.1 - - [12/Jan/2025 12:09:24] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:09:29,799 INFO 127.0.0.1 - - [12/Jan/2025 12:09:29] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:09:33,330 INFO 127.0.0.1 - - [12/Jan/2025 12:09:33] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:09:47,401 INFO 127.0.0.1 - - [12/Jan/2025 12:09:47] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:09:56,051 INFO 127.0.0.1 - - [12/Jan/2025 12:09:56] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:10:00,070 INFO 127.0.0.1 - - [12/Jan/2025 12:10:00] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:10:36,331 INFO 127.0.0.1 - - [12/Jan/2025 12:10:36] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:10:39,963 INFO 127.0.0.1 - - [12/Jan/2025 12:10:39] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:10:54,128 INFO 127.0.0.1 - - [12/Jan/2025 12:10:54] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:10:59,256 INFO 127.0.0.1 - - [12/Jan/2025 12:10:59] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:11:49,109 INFO 127.0.0.1 - - [12/Jan/2025 12:11:49] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:11:58,858 INFO 127.0.0.1 - - [12/Jan/2025 12:11:58] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:12:23,496 INFO 127.0.0.1 - - [12/Jan/2025 12:12:23] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:12:56,601 INFO 127.0.0.1 - - [12/Jan/2025 12:12:56] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:13:11,641 INFO 127.0.0.1 - - [12/Jan/2025 12:13:11] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:13:31,774 INFO 127.0.0.1 - - [12/Jan/2025 12:13:31] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:13:35,785 INFO 127.0.0.1 - - [12/Jan/2025 12:13:35] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:14:14,670 INFO 127.0.0.1 - - [12/Jan/2025 12:14:14] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:14:22,922 INFO 127.0.0.1 - - [12/Jan/2025 12:14:22] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:14:26,825 INFO 127.0.0.1 - - [12/Jan/2025 12:14:26] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:14:33,511 INFO 127.0.0.1 - - [12/Jan/2025 12:14:33] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:14:37,925 INFO 127.0.0.1 - - [12/Jan/2025 12:14:37] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:14:47,174 INFO 127.0.0.1 - - [12/Jan/2025 12:14:47] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:14:51,554 INFO 127.0.0.1 - - [12/Jan/2025 12:14:51] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:15:04,059 INFO 127.0.0.1 - - [12/Jan/2025 12:15:04] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:15:16,199 INFO 127.0.0.1 - - [12/Jan/2025 12:15:16] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:15:26,174 ERROR Ошибка в базе данных: UNIQUE constraint failed: Tables.table_id
+2025-01-12 12:15:26,175 INFO 127.0.0.1 - - [12/Jan/2025 12:15:26] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:15:35,769 ERROR Ошибка в базе данных: UNIQUE constraint failed: Tables.table_id
+2025-01-12 12:15:35,770 INFO 127.0.0.1 - - [12/Jan/2025 12:15:35] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:15:41,119 INFO 127.0.0.1 - - [12/Jan/2025 12:15:41] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:15:45,784 INFO 127.0.0.1 - - [12/Jan/2025 12:15:45] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:15:57,642 INFO 127.0.0.1 - - [12/Jan/2025 12:15:57] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:16:12,794 INFO 127.0.0.1 - - [12/Jan/2025 12:16:12] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:16:20,208 INFO 127.0.0.1 - - [12/Jan/2025 12:16:20] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:16:41,161 INFO 127.0.0.1 - - [12/Jan/2025 12:16:41] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:17:04,376 INFO 127.0.0.1 - - [12/Jan/2025 12:17:04] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:17:11,961 INFO 127.0.0.1 - - [12/Jan/2025 12:17:11] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:17:20,483 INFO 127.0.0.1 - - [12/Jan/2025 12:17:20] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:17:31,674 INFO 127.0.0.1 - - [12/Jan/2025 12:17:31] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:17:34,293 INFO 127.0.0.1 - - [12/Jan/2025 12:17:34] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:17:56,733 INFO 127.0.0.1 - - [12/Jan/2025 12:17:56] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:18:02,500 ERROR Ошибка в базе данных: UNIQUE constraint failed: Tables.table_id
+2025-01-12 12:18:02,501 INFO 127.0.0.1 - - [12/Jan/2025 12:18:02] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:18:17,709 INFO 127.0.0.1 - - [12/Jan/2025 12:18:17] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:18:33,310 INFO 127.0.0.1 - - [12/Jan/2025 12:18:33] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:18:40,902 INFO 127.0.0.1 - - [12/Jan/2025 12:18:40] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:18:47,334 INFO 127.0.0.1 - - [12/Jan/2025 12:18:47] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:18:56,538 INFO 127.0.0.1 - - [12/Jan/2025 12:18:56] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:19:01,781 INFO 127.0.0.1 - - [12/Jan/2025 12:19:01] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:19:05,611 INFO 127.0.0.1 - - [12/Jan/2025 12:19:05] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:19:13,426 INFO 127.0.0.1 - - [12/Jan/2025 12:19:13] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:19:25,515 INFO 127.0.0.1 - - [12/Jan/2025 12:19:25] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:19:34,871 INFO 127.0.0.1 - - [12/Jan/2025 12:19:34] "POST /webhook HTTP/1.1" 200 -
+2025-01-12 12:19:40,414 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "/opt/render/project/src/.venv/lib/python3.11/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/render/project/src/.venv/lib/python3.11/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/render/project/src/bot.py", line 593, in webhook
+    admin_check(user, user_data, text)
+  File "/opt/render/project/src/bot.py", line 384, in admin_check
+    query_db(insert_query, (phone,), fetch=False)
+  File "/opt/render/project/src/bot.py", line 93, in query_db
+    cursor.execute(query, params or ())
+sqlite3.IntegrityError: UNIQUE constraint failed: Admins.phone_number
+2025-01-12 12:19:42,319 INFO Файл backups/db_nehabar_2025-01-12_17-19-40.db создан.
+2025-01-12 12:19:43,770 INFO Файл logs/py_log_2025-01-12_17-19-40.log создан.
+2025-01-12 12:19:43,771 INFO 127.0.0.1 - - [12/Jan/2025 12:19:43] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2025-01-12 12:20:43,999 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "/opt/render/project/src/.venv/lib/python3.11/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/render/project/src/.venv/lib/python3.11/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/render/project/src/bot.py", line 593, in webhook
+    admin_check(user, user_data, text)
+  File "/opt/render/project/src/bot.py", line 384, in admin_check
+    query_db(insert_query, (phone,), fetch=False)
+  File "/opt/render/project/src/bot.py", line 93, in query_db
+    cursor.execute(query, params or ())
+sqlite3.IntegrityError: UNIQUE constraint failed: Admins.phone_number
+2025-01-12 12:20:45,903 INFO Файл backups/db_nehabar_2025-01-12_17-20-44.db создан.
